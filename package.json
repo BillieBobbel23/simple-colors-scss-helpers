@@ -1,0 +1,22 @@
+{
+  "name": "simple-colors-scss-helpers",
+  "version": "0.1.0",
+  "description": "A small set of helpers / mixins for simple-colors-scss",
+  "main": "_helpers.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billiebobbel23/simple-colors-scss.git"
+  },
+  "keywords": [
+    "scss", "css", "color", "colour", "color management", "mixins"
+  ],
+  "author": "Ralph van Barneveld",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billiebobbel23/simple-colors-scss/issues"
+  },
+  "homepage": "https://github.com/billiebobbel23/simple-colors-scss#readme",
+  "peerDependencies": {
+    "simple-colors-scss": "0.x"
+  }
+}

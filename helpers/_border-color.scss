@@ -1,0 +1,8 @@
+@mixin border-color($key) {
+  border-color: color($key);
+}
+
+// Or even shorter
+@mixin b-color($key) {
+  border-color: color($key);
+}
